@@ -26,11 +26,11 @@
 
     10)  plot(decompose(dif_ts))
 
-	11)	 plot(df_ts, main = "", xlab = "", ylab = "")
+    11)	 plot(df_ts, main = "", xlab = "", ylab = "")
    
-	12)  lines(fitted(df_forecast), col="")
+    12)  lines(fitted(df_forecast), col="")
 
-	13)	 checkresiduals(df_forecast)
+    13)	 checkresiduals(df_forecast)
 
 ***
 
