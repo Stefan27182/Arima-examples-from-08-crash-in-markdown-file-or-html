@@ -122,11 +122,11 @@
 ##### Silver - Fitted Models
 ###### not auto
 
-![](./Models/Silver/Silver__00_06__actual_w_ARIMA_[010]_[102]_blue_overlay.png)
+![](Models/Silver/Silver__00_06__actual_w_ARIMA_[010]_[102]_blue_overlay.png)
 
 ###### auto.arima
 
-![](./Models/Silver/Silver__00_06__actual_w_ ARIMA_[010][001]_blue_overlay.png)
+![](Models/Silver/Silver_00_06_actual_w_ARIMA_[010][001]_blue_overlay.png)
 
 ***
 
