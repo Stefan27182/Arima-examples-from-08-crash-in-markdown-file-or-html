@@ -157,11 +157,11 @@
 ##### E-Mini - Fitted Models
 ###### auto.arima
 
-![](./Models/E-Mini/E-Mini 01-06 w Arima [010][100] [52] w drift blue overlay.png)
+![](Models/E-Mini/E-Mini_01-06_w_Arima_[010][100]_[52]_w_drift_blue_overlay.png)
 
 ######  not auto
 
-![](./Models/E-Mini/E-Mini 01-06 w Arima [010][011] [52] blue overlay.png)
+![](Models/E-Mini/E-Mini_01-06_w_Arima_[010][011]_[52]_blue_overlay.png)
 
 ##### The addition of the seasonal component makes the fit look terrible (i.e. it is not over fitted to the data); never-the-less, it still produces the best scores and it adds an aesthetically satisfying wave to the graph. 
 
