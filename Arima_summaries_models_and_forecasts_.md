@@ -150,7 +150,7 @@
 ### E-Mini
 ##### E-Mini - Model Summaries
 
-![](./Scores/E-Mini/E-Mini AICs .png)
+![](Scores/E-Mini/E-Mini_AICs.png)
 
 ***
 
@@ -178,7 +178,7 @@
 
 ***
 
-![](./actual_00_10/E-Mini_S&P_500_01_10_.png)
+![](actual_00_10/E-Mini_S&P_500_01_10_.png)
 
 
 
