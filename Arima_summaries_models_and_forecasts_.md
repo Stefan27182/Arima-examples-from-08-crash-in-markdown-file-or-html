@@ -107,7 +107,7 @@
 ***
 
 ##### Gold - actual '01-'10
-![](./actual_00_10/Gold_01_10_.png)
+![](actual_00_10/Gold_01_10_.png)
 
 ***
 
