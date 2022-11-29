@@ -113,7 +113,7 @@
 
 #### Silver
 ##### Silver - Model Summaries
-![](./Scores/Silver/Silver_AIC's_0.png)
+![](Scores/Silver/Silver_AIC's_0.png)
 
 #### Very close!
 
