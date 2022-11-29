@@ -170,11 +170,11 @@
 ##### E-Mini - Forecasts
 ###### auto.arima
 
-![](./Forecasts/E-Mini/E-Mini 01-06 w Arima [010][100] [52] w drift 07-09.png)
+![](Forecasts/E-Mini/E-Mini_01-06_w_Arima_[010][100]_[52]_w_drift_07-09.png)
 
 ######  not auto
 
-![](./Forecasts/E-Mini/E-Mini 01-06 w Arima [010][011] [52] 07-09.png)
+![](Forecasts/E-Mini/E-Mini_01-06_w_Arima_[010][011]_[52]_07-09.png)
 
 ***
 
