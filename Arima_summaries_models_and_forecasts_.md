@@ -36,9 +36,9 @@
 
 #### Crude Oil
 #### The auto arima summary in the image below is very basic; the next one below will be more modified i.e. contain "approximation" and "stepwise" equal false, will get only marginally better results, and will take much more time to process than the basic quick style shown initially.
-![](./Scores/Crude/Crude_AIC's.png)
+![](Scores/Crude/Crude_AIC's.png)
 
-![](./Scores/Crude/Crude_auto_ arima _ long .png)
+![](Scores/Crude/Crude_auto_ arima _ long .png)
 
 ***
 
