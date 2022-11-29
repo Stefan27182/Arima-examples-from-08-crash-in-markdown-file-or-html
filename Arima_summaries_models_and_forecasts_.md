@@ -44,7 +44,7 @@
 
 ###### Crude Oil - Fitted Models
 ###### not auto
-![](Models/Crude/'Crude Oil w Arima model [010][111] blue overlay.png')
+![](Models/Crude/Crude\ Oil\ w\ Arima\ model\ [010][111]\ blue\ overlay.png)
 
 ###### auto.arima
 
