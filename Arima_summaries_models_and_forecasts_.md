@@ -87,11 +87,11 @@
 ##### Gold - Fitted Models
 ###### auto.arima
 
-![](./Models/Gold/Gold 01-06 w Arima [010][001] [52] 07-09 blue overlay.png)
+![](Models/Gold/Gold_01-06_w_Arima_[010][001]_[52]_07-09_blue_overlay.png)
 
 ###### not auto
 
-![](./Models/Gold/Gold 01-06 w Arima [010][013] [52] 07-09 blue overlay.png)
+![](Models/Gold/Gold_01-06_w_Arima_[010][013]_[52]_07-09_blue_overlay.png)
 
 ***
 
