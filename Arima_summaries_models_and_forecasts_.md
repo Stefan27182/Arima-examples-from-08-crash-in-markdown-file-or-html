@@ -163,7 +163,7 @@
 
 ![](./Models/E-Mini/E-Mini 01-06 w Arima [010][011] [52] blue overlay.png)
 
-##### The addition of the seasonal component makes the fit look terrible; never-the-less, it still produces the best scores and it adds an aesthetically satisfying wave to the graph. 
+##### The addition of the seasonal component makes the fit look terrible (i.e. it is not over fitted to the data); never-the-less, it still produces the best scores and it adds an aesthetically satisfying wave to the graph. 
 
 ***
 
