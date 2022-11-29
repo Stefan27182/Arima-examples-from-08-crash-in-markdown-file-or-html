@@ -59,15 +59,15 @@
 ##### Crude Oil - Forecasts
 ###### not auto
 
-![](./Forecasts/Crude/Crude Oil actual 01-06 w Arima [010][111] [52] 07-09 .png)
+![](Forecasts/Crude/Crude_Oil_actual_01-06_w_Arima_[010][111]_[52]_07-09.png)
 
 ###### auto.arima
 
-![](./Forecasts/Crude/Crude Oil actual 01-06 w Arima [010] 07-09.png)
+![](Forecasts/Crude/Crude_Oil_actual_01-06_w_Arima_[010]_07-09.png)
 
 ###### auto.arima
 
-![](./Forecasts/Crude/Crude Oil actual 01-06 w Arima [013][001] [52] 07-09.png)
+![](Forecasts/Crude/Crude_Oil_actual_01-06_w_Arima_[013][001]_[52]_07-09.png)
 
 #### While the first model doesn't fit the data as well as the two that follow it, it still produces the best scores and the best looking graph out of the three.
 
