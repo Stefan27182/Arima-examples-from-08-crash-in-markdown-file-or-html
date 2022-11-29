@@ -69,7 +69,7 @@
 
 ![](Forecasts/Crude/Crude_Oil_actual_01-06_w_Arima_[013][001]_[52]_07-09.png)
 
-#### While the first model doesn't fit the data as well as the two that follow it (i.e. it is not over fitted), it still produces the best scores and the best looking graph out of the three.
+#### While the first model doesn't fit the data as well as the two that follow it (i.e. it is not overfitted), it still produces the best scores and the best looking graph out of the three.
 
 ***
 
@@ -163,7 +163,7 @@
 
 ![](Models/E-Mini/E-Mini_01-06_w_Arima_[010][011]_[52]_blue_overlay.png)
 
-##### The addition of the seasonal component makes the fit look terrible (i.e. it is not over fitted to the data); never-the-less, it still produces the best scores and it adds an aesthetically satisfying wave to the graph. 
+##### The addition of the seasonal component makes the fit look terrible (i.e. it is not overfitted to the data); never-the-less, it still produces the best scores and it adds an aesthetically satisfying wave to the graph. 
 
 ***
 
